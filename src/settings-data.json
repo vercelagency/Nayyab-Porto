@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "bgColor": "#000000",
+    "bgImage": "/uploads/img-1780915592630-3076.png",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#ffffff",
+    "logoImage": "/uploads/img-1780915592633-5140.svg",
+    "titleImage": "/uploads/img-1780915592633-72.svg",
+    "titleImageScale": 0.3,
+    "logoImageScale": 0.7,
+    "headingScale": 0.4
+  },
+  "about": {
+    "bgColor": "#18181b",
+    "bgImage": "/uploads/img-1780915592635-6358.png",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#ffffff",
+    "titleImage": "/uploads/img-1780915592637-7970.png",
+    "titleImageScale": 1.1,
+    "headingScale": 0.3
+  },
+  "work": {
+    "bgColor": "#e5e5e5",
+    "bgImage": "",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#171717",
+    "slides": [
+      { "id": "1", "title": "go to the limits of your longing", "image": "https://images.unsplash.com/photo-1544967082-d9d25d867d66?auto=format&fit=crop&q=80" },
+      { "id": "2", "title": "the crips are sleeping", "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80" },
+      { "id": "3", "title": "dance of the slain", "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&q=80" },
+      { "id": "4", "title": "noon meem", "image": "https://images.unsplash.com/photo-1473830394358-91588751b241?auto=format&fit=crop&q=80" }
+    ]
+  },
+  "texts": {
+    "bgColor": "#d6d3d1",
+    "bgImage": "",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#171717"
+  },
+  "publications": {
+    "bgColor": "#262626",
+    "bgImage": "",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#ffffff",
+    "slides": [
+      { "id": "1", "title": "publication one", "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80" },
+      { "id": "2", "title": "poetry collection", "image": "https://images.unsplash.com/photo-1455390582262-044cdead27d8?auto=format&fit=crop&q=80" },
+      { "id": "3", "title": "modernist tales", "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80" },
+      { "id": "4", "title": "visual essays", "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&q=80" }
+    ]
+  },
+  "footer": {
+    "bgColor": "#f5f5f4",
+    "bgImage": "https://images.unsplash.com/photo-1603504104279-796726f1c4e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "fontFamily": "\"Playfair Display\", serif",
+    "textColor": "#171717"
+  }
+}

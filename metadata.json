@@ -1,0 +1,6 @@
+{
+  "name": "Nayyab Naveed Portfolio",
+  "description": "A single-page highly customizable portfolio with a real-time theme editor sidebar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
